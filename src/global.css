@@ -1,0 +1,21 @@
+* {
+    font-family: Poppins;
+    background-color: #f8f8f8;
+}
+
+input {
+    width: 500px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px; 
+}
+
+h2 {
+    background-color: #ffff;
+}
